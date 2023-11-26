@@ -149,8 +149,6 @@ a {
   display: flex;
   gap: 11px;
 }
-/* bottom */
-
 .header_bottom_logo {
 }
 .header_bottom_logo_side {
@@ -170,9 +168,7 @@ a {
   height: 92px;
   justify-content: flex-end;
   background-color: #ffffff;
-  /* background-color: #fff; */
   width: 100%;
-
   padding-top: 25px;
   padding-bottom: 34px;
   padding-right: 32px;
@@ -221,7 +217,6 @@ a {
     width: 100px;
   }
 }
-
 .header_bottom_right_item {
   display: flex;
   text-align: center;
@@ -243,12 +238,6 @@ a {
     display: none;
   }
 }
-/*.header_bottom_nav_left {
-  display: flex;
-  justify-content: space-between;
-  background-color: rgb(222, 11, 241);
-} */
-
 .header_bottom_item {
   color: #000000;
   font-family: Open Sans;
