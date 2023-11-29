@@ -1,3 +1,3 @@
 # Navbar
 
-demo link  [https://navbar-beta-liard.vercel.app/]
+ link  [https://navbar-beta-liard.vercel.app/]
